@@ -2260,15 +2260,14 @@ input, select, textarea {
 			display: inline-block;
 			border-radius: 100%;
 			padding: 0.65em;
-			margin: 0 0 2em 0;
+			margin: 0 0 1em 0;
 			cursor: default;
 		}
 
 			.icon.major:before {
 				display: inline-block;
-				font-size: 6.25rem;
-				width: 2.25em;
-				height: 2.25em;
+				font-size: 3rem;
+				width: 100%;
 				line-height: 2.2em;
 				border-radius: 100%;
 				border: solid 1px;
@@ -2814,13 +2813,13 @@ input, select, textarea {
 	}
 
 		.features li {
-			width: calc(25% - 2em);
+			width: calc(20% - 2em);
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
 		}
 
-			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3), .features li:nth-child(4) {
+			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3), .features li:nth-child(4), .features li:nth-child(5) {
 				margin-top: 0;
 			}
 
@@ -3514,14 +3513,6 @@ input, select, textarea {
 		#main .formerize-placeholder {
 			color: rgba(99, 99, 99, 0.25) !important;
 		}
-
-		#main .icon.major {
-			border-color: #dddddd;
-		}
-
-			#main .icon.major:before {
-				border-color: #dddddd;
-			}
 
 		#main .icon.alt {
 			border-color: #dddddd;
