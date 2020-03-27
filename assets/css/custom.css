@@ -1,1 +1,10 @@
 p{font-size:1.1em}.no-borders{border:0!important}.border-right{border-right:2px solid #ddd}.text-center{text-align:center!important}.roman-order{list-style:upper-roman!important}.text-md{font-size:1.2em!important}.text-bold{font-weight:500}.image.left{margin-left:0;margin-right:4em}#whatIsAProject{display:flex;align-self:center}.margin-top-1{margin-top:1.5em}.margin-top-2{margin-top:2.5em}
+
+body{
+	background-image: url('bkg.png');
+	background-size: 150% 100%;"
+}
+
+#header.alt .logo img {
+    max-width: 55%;
+}
