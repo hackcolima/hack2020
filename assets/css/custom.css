@@ -6,6 +6,10 @@ p {
   border: 0 !important;
 }
 
+.border-right {
+  border-right: 2px solid rgb(221, 221, 221);
+}
+
 .text-center {
   text-align: center !important;
 }
@@ -20,4 +24,14 @@ p {
 
 .text-bold {
   font-weight: 500;
+}
+
+.image.left {
+  margin-left: 0;
+  margin-right: 4em;
+}
+
+#whatIsAProject {
+  display: flex;
+  align-self: center;
 }
