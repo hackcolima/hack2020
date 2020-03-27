@@ -1,7 +1,23 @@
+p {
+  font-size: 1.1em;
+}
+
 .no-borders {
   border: 0 !important;
 }
 
 .text-center {
   text-align: center !important;
+}
+
+.roman-order {
+  list-style: upper-roman !important;
+}
+
+.text-md {
+  font-size: 1.2em !important;
+}
+
+.text-bold {
+  font-weight: 500;
 }
