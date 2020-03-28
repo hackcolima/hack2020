@@ -5,6 +5,10 @@ body{
 	background-size: 150% 100%;"
 }
 
+a{
+	border-bottom: none;
+}
+
 #header.alt .logo img {
     max-width: 55%;
 }
